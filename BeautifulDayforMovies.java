@@ -1,4 +1,3 @@
-package hackerrank;
 import java.io.*;
 import java.util.*;
 public class BeautifulDayforMovies {
